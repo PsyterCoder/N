@@ -1,7 +1,7 @@
 #print("Hello World")
 import streamlit as srt
 srt.title("App by PS")
-srt.markdown(f"<style> -appview-container.css-https://cc9aqqtcatxzadr5pjc9co {background-image:linear-gradient(Azure,RoyalBlue); color:#FFFFFF'}</style>", unsafe_allow_html=True )
+srt.markdown(f"<style> -appview-container.css-cc9aqqtcatxzadr5pjc9co {background-image:linear-gradient(Azure,RoyalBlue); color:#FFFFFF'}</style>", unsafe_allow_html=True )
 a=srt.number_input("Enter number a")
 b=srt.number_input("Enter number b")
 c=srt.number_input("Enter number c")
